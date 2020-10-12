@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeBirthDayCards", "EmployeeBirthDayCards\EmployeeBirthDayCards.csproj", "{4691B2F6-D3F1-43A1-9AC7-3B9A13CD4B64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeBirthDayCards.Interface", "EmployeeBirthDayCards.Interfaces\EmployeeBirthDayCards.Interface.csproj", "{0FF6E83E-89E1-4998-A259-F313207CFDD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeBirthDayCards.DTO", "EmployeeBirthDayCards.DTO\EmployeeBirthDayCards.DTO.csproj", "{53DE959B-36D5-4A5B-A68E-FA03CCDD6883}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeBirthDayCards.DataAccess", "EmployeeBirthDayCards.DataAccess\EmployeeBirthDayCards.DataAccess.csproj", "{D164BCC3-BA5A-41BE-9C8B-FD5659F5EFD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeBirthDayCards.Logic", "EmployeeBirthDayCards.Logic\EmployeeBirthDayCards.Logic.csproj", "{A257BD20-3CB4-49F4-91D6-6DEB1DAF7BD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4691B2F6-D3F1-43A1-9AC7-3B9A13CD4B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4691B2F6-D3F1-43A1-9AC7-3B9A13CD4B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4691B2F6-D3F1-43A1-9AC7-3B9A13CD4B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4691B2F6-D3F1-43A1-9AC7-3B9A13CD4B64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FF6E83E-89E1-4998-A259-F313207CFDD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF6E83E-89E1-4998-A259-F313207CFDD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF6E83E-89E1-4998-A259-F313207CFDD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF6E83E-89E1-4998-A259-F313207CFDD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53DE959B-36D5-4A5B-A68E-FA03CCDD6883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53DE959B-36D5-4A5B-A68E-FA03CCDD6883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53DE959B-36D5-4A5B-A68E-FA03CCDD6883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53DE959B-36D5-4A5B-A68E-FA03CCDD6883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D164BCC3-BA5A-41BE-9C8B-FD5659F5EFD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D164BCC3-BA5A-41BE-9C8B-FD5659F5EFD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D164BCC3-BA5A-41BE-9C8B-FD5659F5EFD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D164BCC3-BA5A-41BE-9C8B-FD5659F5EFD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A257BD20-3CB4-49F4-91D6-6DEB1DAF7BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A257BD20-3CB4-49F4-91D6-6DEB1DAF7BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A257BD20-3CB4-49F4-91D6-6DEB1DAF7BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A257BD20-3CB4-49F4-91D6-6DEB1DAF7BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD96833F-A5FD-442D-839C-A5BE1B133A05}
+	EndGlobalSection
+EndGlobal

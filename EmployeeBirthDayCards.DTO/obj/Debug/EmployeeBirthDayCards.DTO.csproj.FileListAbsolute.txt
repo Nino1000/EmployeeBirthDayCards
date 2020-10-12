@@ -1,0 +1,6 @@
+C:\Users\ninos\Documents\Study Projects\EmployeeBirthDayCards\EmployeeBirthDayCards.DTO\bin\Debug\EmployeeBirthDayCards.DTO.dll
+C:\Users\ninos\Documents\Study Projects\EmployeeBirthDayCards\EmployeeBirthDayCards.DTO\bin\Debug\EmployeeBirthDayCards.DTO.pdb
+C:\Users\ninos\Documents\Study Projects\EmployeeBirthDayCards\EmployeeBirthDayCards.DTO\obj\Debug\EmployeeBirthDayCards.DTO.csproj.CoreCompileInputs.cache
+C:\Users\ninos\Documents\Study Projects\EmployeeBirthDayCards\EmployeeBirthDayCards.DTO\obj\Debug\EmployeeBirthDayCards.DTO.dll
+C:\Users\ninos\Documents\Study Projects\EmployeeBirthDayCards\EmployeeBirthDayCards.DTO\obj\Debug\EmployeeBirthDayCards.DTO.pdb
+C:\Users\ninos\Documents\Study Projects\EmployeeBirthDayCards\EmployeeBirthDayCards.DTO\obj\Debug\EmployeeBirthDayCards.DTO.csprojAssemblyReference.cache
